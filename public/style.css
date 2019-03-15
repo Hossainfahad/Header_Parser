@@ -1,0 +1,19 @@
+body{
+    background: rgba(71, 68, 68, 0.2);
+}
+h3{
+    text-align:center;
+    margin-top: 2rem;
+}
+a{
+    text-decoration: aliceblue;
+    font-style: italic;
+    font-weight: bold;
+}
+div{
+    margin-top:3rem;
+    margin-left:15%;
+}
+code{
+    background: #eee;
+}
